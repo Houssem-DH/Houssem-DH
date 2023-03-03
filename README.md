@@ -17,7 +17,7 @@
 &nbsp;&nbsp;
 [![](./img/twitter-dark.svg)](https://twitter.com/HoussemDh19)
 &nbsp;&nbsp;
-[![](./img/linkedin-dark.svg)]()
+[![](./img/linkedin-dark.svg)](https://www.linkedin.com/in/houssem-eddine-dahel-053917268/)
 &nbsp;&nbsp;
 [![](./img/instagram-dark.svg)](https://www.instagram.com/houssemdh19/)
 &nbsp;&nbsp;
