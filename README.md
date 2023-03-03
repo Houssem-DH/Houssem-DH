@@ -11,17 +11,17 @@
 
 ### Connect with me:
 
-[![website](./img/globe-dark.svg)]()
+[![](./img/globe-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./img/youtube-dark.svg)](www.youtube.com/@xakly3009)
+[![](./img/youtube-dark.svg)](www.youtube.com/@xakly3009)
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/HoussemDh19)
+[![](./img/twitter-dark.svg)](https://twitter.com/HoussemDh19)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)]()
+[![](./img/linkedin-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/houssemdh19/)
+[![](./img/instagram-dark.svg)](https://www.instagram.com/houssemdh19/)
 &nbsp;&nbsp;
-[![website](./img/discord-dark.svg)](https://discord.gg/ZyPcHKewNU)
+[![](./img/discord-dark.svg)](https://discord.gg/ZyPcHKewNU)
 
 ### Languages and Tools:
 
