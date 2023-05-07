@@ -42,7 +42,7 @@
 <br />
 <br />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Houssem-DH.Houssem-DH)
+![visitors](https://komarev.com/ghpvc/?username=Houssem-DH&color=blueviolet)
 
 ---
 
