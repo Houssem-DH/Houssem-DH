@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Houssem Eddine Dahel's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 32, Total Commits  (last year) : 263, Total PRs: 28, Total Issues: 0, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 32, Total Commits  (last year) : 264, Total PRs: 28, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #A78BFA;
+            fill: #7C3AED;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #C9D1D9;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #24292F;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #24292F;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -51,13 +51,13 @@
     }
 
     .rank-circle-rim {
-      stroke: #A78BFA;
+      stroke: #7C3AED;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #A78BFA;
+      stroke: #7C3AED;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 168.11215963893702;
+        stroke-dashoffset: 168.05622400230774;
       }
     }
   
@@ -109,10 +109,10 @@
           y="0.5"
           rx="8"
           height="99%"
-          stroke="#e4e2e2"
+          stroke="#D1D9E0"
           width="466"
-          fill="#0D1117"
-          stroke-opacity="0"
+          fill="#FFFFFF"
+          stroke-opacity="1"
         />
 
         
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >263</text>
+      >264</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
