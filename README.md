@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="./profile/banner-light.svg#gh-light-mode-only" alt="Houssem Eddine Dahel — Full-Stack Developer · Laravel &amp; React"/>
-  <img src="./profile/banner-dark.svg#gh-dark-mode-only" alt="Houssem Eddine Dahel — Full-Stack Developer · Laravel &amp; React"/>
+  <img src="./profile/banner-light.svg#gh-light-mode-only" alt="Houssem Eddine Dahel — Full-Stack Developer"/>
+  <img src="./profile/banner-dark.svg#gh-dark-mode-only" alt="Houssem Eddine Dahel — Full-Stack Developer"/>
 
   <p>
     <a href="https://houssemdh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-HoussemDH.dev-0D1117?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
@@ -19,7 +19,7 @@
 
 ## About
 
-Full-stack developer with hands-on experience building and shipping client-facing web products. I work primarily with **Laravel** and **React**, covering the full stack from database design and REST APIs to responsive, production-ready interfaces.
+Full-stack developer with hands-on experience building and shipping client-facing products across web, mobile and desktop. I work across the whole stack — from database design and REST APIs to responsive, production-ready interfaces.
 
 <table>
   <tr>
