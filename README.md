@@ -5,7 +5,6 @@
   <p>
     <a href="https://houssemdh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-HoussemDH.dev-0D1117?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/houssem-eddine-dahel-053917268/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://komarev.com/ghpvc/?username=Houssem-DH"><img src="https://komarev.com/ghpvc/?username=Houssem-DH&style=flat-square&color=7C3AED&label=VISITORS" alt="Profile views"/></a>
   </p>
 
   <p>
@@ -16,18 +15,16 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="./profile/divider.svg" alt=""/>
-</div>
+---
 
 ## About
 
-I'm a full-stack developer focused on shipping production-ready products — clean, responsive front-ends, well-structured APIs and reliable deployments. I care about clarity, performance and maintainable architecture.
+Full-stack developer with hands-on experience building and shipping client-facing web products. I work primarily with **Laravel** and **React**, covering the full stack from database design and REST APIs to responsive, production-ready interfaces.
 
 <table>
   <tr>
     <td>💼 <strong>Experience</strong></td>
-    <td>Freelance Developer · Khamsat (2019 – 2022) — 2+ client projects shipped</td>
+    <td>Freelance Developer · Khamsat (2019 – 2022) — delivered 2+ client projects, including e-commerce and web applications</td>
   </tr>
   <tr>
     <td>🎓 <strong>Education</strong></td>
@@ -35,15 +32,15 @@ I'm a full-stack developer focused on shipping production-ready products — cle
   </tr>
   <tr>
     <td>🌍 <strong>Based in</strong></td>
-    <td>Algeria (GMT+1) · open to freelance &amp; collaboration</td>
+    <td>Algeria (GMT+1)</td>
   </tr>
   <tr>
     <td>🗣️ <strong>Languages</strong></td>
     <td>Arabic (native) · English (professional) · French (basic)</td>
   </tr>
   <tr>
-    <td>🎮 <strong>Beyond code</strong></td>
-    <td>Video games · always learning</td>
+    <td>🎮 <strong>Interests</strong></td>
+    <td>Video games · continuous learning</td>
   </tr>
 </table>
 
@@ -80,20 +77,18 @@ I'm a full-stack developer focused on shipping production-ready products — cle
 
 ## Connect
 
+I'm open to full-time roles and freelance work — email is the fastest way to reach me.
+
 <div align="center">
   <a href="mailto:houssemoodahel@gmail.com"><img src="https://img.shields.io/badge/Email-D14D3D?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/houssem-eddine-dahel-053917268/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Houssem-DH"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://houssemdh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-HoussemDH.dev-0D1117?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
   <a href="https://twitter.com/HoussemDh19"><img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.instagram.com/houssemdh19/"><img src="https://img.shields.io/badge/Instagram-C13584?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/@xakly3009"><img src="https://img.shields.io/badge/YouTube-FF0033?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://steamcommunity.com/id/xd_houssem19"><img src="https://img.shields.io/badge/Steam-171A21?style=flat-square&logo=steam&logoColor=white" alt="Steam"/></a>
-  <a href="https://discord.gg/ZyPcHKewNU"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
 </div>
 
-<div align="center">
-  <img src="./profile/divider.svg" alt=""/>
-</div>
+---
 
 <div align="center">
-  <sub>Thanks for stopping by · Always building, always learning.</sub>
+  <sub>Thanks for stopping by.</sub>
 </div>
